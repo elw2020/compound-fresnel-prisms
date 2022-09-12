@@ -17,3 +17,5 @@ _What does a fresnel prism do in a spectacle lens?_
 
 It helps to correct several visual disorders.
 
+*In order for this program to run, you may have to unblock the file in the security settings(right-click on file, select properties, then check "unblock").*
+
